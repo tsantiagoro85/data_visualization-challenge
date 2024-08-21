@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# data_visualization-challenge
 This repository contains the code neccessary to run the matplotlib challenge using a Pymaceuticals mouse mock dataset. This repo contains a folder called 'data' with the files necessary to run the code. The repo also contains a jupyter notebook with the code necessary to perform these general analyses:
     - Prepare the data.
     - Generate summary statistics.
